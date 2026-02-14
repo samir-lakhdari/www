@@ -23,7 +23,7 @@ presenter: true
 
 # Samir LAKHDARI
 
-Formateur
+Consultant Formateur
 
 <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
   Appuyez sur espace <carbon:arrow-right />
